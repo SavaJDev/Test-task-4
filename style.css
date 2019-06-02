@@ -1,0 +1,43 @@
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+
+}
+
+.row_out_game {
+    height: 30px;
+}
+
+.cell_out_game {
+    width: 30px;
+    /*border-right: none;*/
+    text-align: center;
+}
+
+.cell_game {
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    color: white;
+}
+
+.cell_game_black {
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border: 1px solid black;
+    
+}
+
+.cell_click {
+    background-color: blue;
+    color: blue;
+}
+
+.cell_step {
+    background-color: green;
+    color: green;
+}
+
